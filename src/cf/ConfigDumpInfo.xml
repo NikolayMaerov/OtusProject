@@ -4206,7 +4206,7 @@
 		<Metadata name="Document.Встреча.Form.ФормаСписка.Form" id="02abb5e3-9d4e-4c45-af19-71796966ed19.0" configVersion="2f76753975ae424498c1a1eb6433858f00000000"/>
 		<Metadata name="Document.Встреча.ManagerModule" id="5657286b-114b-41de-ab7d-45d0f0d95e2d.2" configVersion="a39a336204d9ed44830fcf51a170c5cd00000000"/>
 		<Metadata name="Document.Встреча.ObjectModule" id="5657286b-114b-41de-ab7d-45d0f0d95e2d.0" configVersion="b3d43bdcdfe3614fa0ccaec4059f9c3100000000"/>
-		<Metadata name="Document.Запись" id="7ed36f53-8bc2-4234-bdb3-00916344e1bc" configVersion="93573470272c1844a9a95ce0d24e6caa00000000">
+		<Metadata name="Document.Запись" id="7ed36f53-8bc2-4234-bdb3-00916344e1bc" configVersion="0408905d340f7d4bb9f15fa73046123c00000000">
 			<Metadata name="Document.Запись.Attribute.Клиент" id="57ea9271-1773-487f-ac34-af53f3502698"/>
 			<Metadata name="Document.Запись.Attribute.Цвет" id="5a6452f3-221e-4fea-a624-e31d6cd32002"/>
 			<Metadata name="Document.Запись.Attribute.ДатаОкончания" id="8036a6a8-1a64-499a-934f-795244bbf943"/>
@@ -4217,11 +4217,11 @@
 			<Metadata name="Document.Запись.Attribute.Длительность" id="d2796b07-5c4c-4f4e-ba7d-c2ccd57b1ef1"/>
 			<Metadata name="Document.Запись.Attribute.Салон" id="d81ebe71-c114-4f21-8f7c-3bc0b7b2dcb1"/>
 		</Metadata>
-		<Metadata name="Document.Запись.Form.ФормаДокумента" id="9b57701a-e651-4e21-adc8-9784220308fe" configVersion="e0ca5eebb6ba5840a825a7d5543ca58100000000"/>
-		<Metadata name="Document.Запись.Form.ФормаДокумента.Form" id="9b57701a-e651-4e21-adc8-9784220308fe.0" configVersion="114dd476b4e7374ea20b2bdc9fdc444d00000000"/>
+		<Metadata name="Document.Запись.Form.ФормаДокумента" id="9b57701a-e651-4e21-adc8-9784220308fe" configVersion="fc84ce391df6cd478833457c8bf9984700000000"/>
+		<Metadata name="Document.Запись.Form.ФормаДокумента.Form" id="9b57701a-e651-4e21-adc8-9784220308fe.0" configVersion="84b39770e18ea448b6287f55c8bc077200000000"/>
 		<Metadata name="Document.Запись.Form.ФормаСписка" id="1d5210d7-21c6-40ab-9e84-5efdb7688c52" configVersion="1b4345a7ab9e9240bc37ac06bc61ba9300000000"/>
 		<Metadata name="Document.Запись.Form.ФормаСписка.Form" id="1d5210d7-21c6-40ab-9e84-5efdb7688c52.0" configVersion="4f302a8406ac79488a1d3cf4a9dd29d800000000"/>
-		<Metadata name="Document.Запись.ObjectModule" id="7ed36f53-8bc2-4234-bdb3-00916344e1bc.0" configVersion="f55784ba613c664bbfbe91a2fa03ae8d00000000"/>
+		<Metadata name="Document.Запись.ObjectModule" id="7ed36f53-8bc2-4234-bdb3-00916344e1bc.0" configVersion="bee2fbfbaa8ea34fa24dc79264a5f7ed00000000"/>
 		<Metadata name="Document.ЗапланированноеВзаимодействие" id="53c4c3b2-9257-4d02-8df8-6b55fe9abdae" configVersion="520000c5171fa145996b2abf81b090bf00000000">
 			<Metadata name="Document.ЗапланированноеВзаимодействие.TabularSection.НаборыЗначенийДоступа.Attribute.Чтение" id="0d743731-da5d-4c99-b19f-e93c69b77e14"/>
 			<Metadata name="Document.ЗапланированноеВзаимодействие.TabularSection.Участники" id="23b46ecd-14dc-4cc5-8ff0-c676a8337aee"/>
