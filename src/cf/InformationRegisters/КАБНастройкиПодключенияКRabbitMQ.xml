@@ -36,7 +36,7 @@
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Настройки подключения к RebbitMQ</v8:content>
+					<v8:content>Настройки подключения к RabbitMQ</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>

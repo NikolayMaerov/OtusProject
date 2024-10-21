@@ -5242,7 +5242,7 @@
 		</Metadata>
 		<Metadata name="InformationRegister.ИсторияРассылкиОтчетов.ManagerModule" id="018bd653-a526-4e2c-8483-1192ae997458.2" configVersion="1f2eb4b77c01b042a34a8202e59429b100000000"/>
 		<Metadata name="InformationRegister.ИсторияРассылкиОтчетов.RecordSetModule" id="018bd653-a526-4e2c-8483-1192ae997458.1" configVersion="71d510345d1c964283ea0fbeec2e2f8600000000"/>
-		<Metadata name="InformationRegister.КАБНастройкиПодключенияКRabbitMQ" id="77939673-78c0-4f87-a11a-6fa5492ca944" configVersion="3db83b0bdbbad548852574f6d771325500000000">
+		<Metadata name="InformationRegister.КАБНастройкиПодключенияКRabbitMQ" id="77939673-78c0-4f87-a11a-6fa5492ca944" configVersion="6c0d6aad60c67f469a59e6e0a8acdc8c00000000">
 			<Metadata name="InformationRegister.КАБНастройкиПодключенияКRabbitMQ.Resource.ВиртуальныйХост" id="41e65abe-e0de-4dfa-ba89-741ee797b52c"/>
 			<Metadata name="InformationRegister.КАБНастройкиПодключенияКRabbitMQ.Dimension.Адрес" id="56dd75d8-1554-4668-acc2-17c6b98f0d29"/>
 			<Metadata name="InformationRegister.КАБНастройкиПодключенияКRabbitMQ.Resource.Порт" id="674067d3-9c19-493d-9188-166f04ee0cd1"/>
@@ -6243,7 +6243,7 @@
 		<Metadata name="Subsystem.Барбершоп.Subsystem.Салоны.CommandInterface" id="5bb7bf5b-5915-458d-bfd3-9a245afe427f.1" configVersion="256b14fcb70d224d91aac0b39f0a2df200000000"/>
 		<Metadata name="Subsystem.Барбершоп.Subsystem.УчетЗаписей" id="ad7dcdd5-784d-4d5e-9ac8-cc5eeb8033e3" configVersion="bb6b7c2188cfab42a249f2981a792a8200000000"/>
 		<Metadata name="Subsystem.Барбершоп.Subsystem.УчетЗаписей.CommandInterface" id="ad7dcdd5-784d-4d5e-9ac8-cc5eeb8033e3.1" configVersion="dd3c7cbd9e9a864e9331b20c4004754a00000000"/>
-		<Metadata name="Subsystem.ДляПроекта" id="57450fb1-6fa6-48f7-bef7-88f1ffd146d9" configVersion="4ec90f465a88144b858e4c72250672e100000000"/>
+		<Metadata name="Subsystem.ДляПроекта" id="57450fb1-6fa6-48f7-bef7-88f1ffd146d9" configVersion="766655eed4d56049b2c278ba1dc33c4c00000000"/>
 		<Metadata name="Subsystem.ПодключаемыеОтчетыИОбработки" id="7795348b-2f52-47f7-bf00-e11e5e795a43" configVersion="d41bc622d500004b9ce935acf9668ce500000000"/>
 		<Metadata name="Subsystem.СтандартныеПодсистемы" id="0421b67e-ed26-491d-ab98-ec59002ed4ce" configVersion="bcb9c95eb7f6d84da05603e1d1962bb800000000"/>
 		<Metadata name="Subsystem.СтандартныеПодсистемы.Subsystem.АнализЖурналаРегистрации" id="7d8acec9-f5a9-411e-921c-446ed0dd3332" configVersion="2d1e5cf6790258479c38f91cab0e626300000000"/>
