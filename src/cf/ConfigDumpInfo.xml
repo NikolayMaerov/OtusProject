@@ -2208,8 +2208,8 @@
 		<Metadata name="CommonModule.РаботаСФайламиСлужебныйКлиентСервер.Module" id="8c2a0f6b-492c-4c5a-97c5-da0d07f9d781.0" configVersion="e2afde3724a54f44ae66bf8dfbd7ff2a00000000"/>
 		<Metadata name="CommonModule.РаботаСФайламиСлужебныйПовтИсп" id="d92cb614-ed09-47db-b70b-d3e533c44c6a" configVersion="81992405eeab7841bf467fe4f191c6a000000000"/>
 		<Metadata name="CommonModule.РаботаСФайламиСлужебныйПовтИсп.Module" id="d92cb614-ed09-47db-b70b-d3e533c44c6a.0" configVersion="a6ddf33b7467194ba369fe7910713a3600000000"/>
-		<Metadata name="CommonModule.РабочийМодуль" id="60db0d6f-5251-4a2c-b248-59a72490511c" configVersion="5421c7dfcc1280479adeffeb8b0bd33f00000000"/>
-		<Metadata name="CommonModule.РабочийМодуль.Module" id="60db0d6f-5251-4a2c-b248-59a72490511c.0" configVersion="c4ab386bd06eef438d9e1fc08d2d392100000000"/>
+		<Metadata name="CommonModule.РабочийМодуль" id="60db0d6f-5251-4a2c-b248-59a72490511c" configVersion="3c1a1c3a03d90244ab2108c2de6a84fb00000000"/>
+		<Metadata name="CommonModule.РабочийМодуль.Module" id="60db0d6f-5251-4a2c-b248-59a72490511c.0" configVersion="747fbbdddd50a842a59967aa829d04cc00000000"/>
 		<Metadata name="CommonModule.РассылкаОтчетов" id="2757ee75-4b36-4901-bff1-044708754edb" configVersion="b4ca504945c7cb49900871f6d2e0dcab00000000"/>
 		<Metadata name="CommonModule.РассылкаОтчетов.Module" id="2757ee75-4b36-4901-bff1-044708754edb.0" configVersion="e8bf25582f947f4593034314b9823f3800000000"/>
 		<Metadata name="CommonModule.РассылкаОтчетовВызовСервера" id="0e6bab27-bf94-4732-8549-dbd9b8a5f4e9" configVersion="3881755c65fde448b1a90d35d731a8ec00000000"/>
@@ -4064,8 +4064,8 @@
 			<Metadata name="DataProcessor.СимуляцияЗаписи.Attribute.Сотрудник" id="b66795be-5d69-4b96-b9fc-277c46fd43d0"/>
 			<Metadata name="DataProcessor.СимуляцияЗаписи.Attribute.Клиент" id="ecda1b6b-8642-47fe-a67d-99673b941b2f"/>
 		</Metadata>
-		<Metadata name="DataProcessor.СимуляцияЗаписи.Form.Форма" id="adb029d7-1f53-4e6c-87d8-3a03d4913fcf" configVersion="3ec68de07dcbd843ba9132de87f41aea00000000"/>
-		<Metadata name="DataProcessor.СимуляцияЗаписи.Form.Форма.Form" id="adb029d7-1f53-4e6c-87d8-3a03d4913fcf.0" configVersion="ed268f5ba5535c4fbbbeeb40b4f71d7300000000"/>
+		<Metadata name="DataProcessor.СимуляцияЗаписи.Form.Форма" id="adb029d7-1f53-4e6c-87d8-3a03d4913fcf" configVersion="e3fab94cd33cbf46b1b8eb75379dce3b00000000"/>
+		<Metadata name="DataProcessor.СимуляцияЗаписи.Form.Форма.Form" id="adb029d7-1f53-4e6c-87d8-3a03d4913fcf.0" configVersion="48069c2eb0878346ba03d230747c1f9200000000"/>
 		<Metadata name="DataProcessor.Сканирование" id="6789e57b-1293-442c-97d0-b8007367602e" configVersion="de5194bff45ac64e90337bc17a512c6100000000"/>
 		<Metadata name="DataProcessor.Сканирование.Form.ВыборУстройстваСканирования" id="c35a643d-fe3a-4293-93c0-074fa68a31e3" configVersion="1c317b02eaefac4fa03dbb2d145db86000000000"/>
 		<Metadata name="DataProcessor.Сканирование.Form.ВыборУстройстваСканирования.Form" id="c35a643d-fe3a-4293-93c0-074fa68a31e3.0" configVersion="e64b2180f1efde4d8ca447037b15ec0f00000000"/>
